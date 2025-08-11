@@ -1,20 +1,18 @@
 ### Hi there 👋
 
-🎓 About Me
+🎓 About Me:
 I'm a Bachelor of Computer Science (BCS) student at the University of British Columbia, currently pursuing a second degree in Computer Science. The BCS program is a unique 20-month intensive program designed for university graduates transitioning into technology careers.
 
 🔄 Career Transition: Combining my Business Administration background and 7+ years in higher education with computer science
 
 💻 Learning Journey: Building strong technical foundations through hands-on projects and collaborative development
 
-🎯 Goal-Oriented: Focused on creating user-centered solutions that solve real-world problems
-
 🛠️ Technical Skills
 Programming Languages:
 JavaScript, TypeScript, C, C++, Java, HTML/CSS, SQL
 
 Frameworks & Libraries:
-React, Express, Node.js, Next.js, Java Swing
+React, Express, Node.js, Next.js, Java Swing, 
 react-router-dom, axios, lodash
 
 Developer Tools:
@@ -43,7 +41,7 @@ Achieved 100% test coverage using test-driven development
 🌙 Phases (Capstone)
 React, Node.js, Express, MySQL, JWT
 
-Built full-stack journaling platform with personalized moon-phase prompts
+A full-stack journaling platform with personalized moon-phase prompts
 Integrated multiple APIs for location-specific astronomical data
 Implemented secure authentication and user-specific content delivery
 

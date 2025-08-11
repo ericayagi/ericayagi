@@ -47,14 +47,6 @@ Built full-stack journaling platform with personalized moon-phase prompts
 Integrated multiple APIs for location-specific astronomical data
 Implemented secure authentication and user-specific content delivery
 
-🌟 What Makes Me Unique
-
-User-focused mindset from supporting thousands of students in higher education
-Strong communication skills developed through cross-departmental collaboration
-Process optimization experience with proven ability to improve efficiency and reduce errors
-Interdisciplinary approach combining business acumen with technical skills
-Mature learner with demonstrated work ethic and leadership experience
-
 📚 Academic Journey
 Current: Bachelor of Computer Science (BCS) at UBC (Sep 2024 – Present)
 Completed: Web Development Diploma, BrainStation (Apr – Jun 2023)
